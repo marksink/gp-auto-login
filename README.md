@@ -1,7 +1,7 @@
 
 # gp-auto-login
 
-This script automates the login process for GlobalProtect VPN on macOS. It monitors clipboard content for credentials and handles interactions with the GlobalProtect application and OKTA Verify.
+This script automates the login process for GlobalProtect VPN on macOS. You will not need to interact with your Mac at all. It monitors clipboard content for credentials and handles interactions with the GlobalProtect application and OKTA Verify. This script is specific to those who are required to use the OKTA MFA app on their iOS device.  Using the included iOS Shortcut, you will be able to log into Global Protect with only two taps on your iOS device. One to launch the shortcut, and the other to tap on the 6-digit OKTA code that appears. You must enable the feature Apple calls Handoff so that the clipboard content from your iOS device is readbale my your Mac. If you are not able to copy and paste between those two devices, this script will not work as intended.  
 
 ## Features
 
