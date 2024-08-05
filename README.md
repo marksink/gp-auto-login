@@ -49,18 +49,3 @@ This script automates the login process for GlobalProtect VPN on macOS. It monit
 3. **Functionality:**
    - The script monitors the clipboard for passwords and OKTA codes.
    - It uses AppleScript to interact with GlobalProtect and the macOS UI.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Commit your changes and push to the branch.
-4. Create a pull request.
-
-## Contact
-
-For any questions or issues, please contact [your email address].
